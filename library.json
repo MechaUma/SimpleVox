@@ -1,0 +1,20 @@
+{
+    "name": "SimpleVox",
+    "version": "0.0.1",
+    "description": "A simple library for speech processing tasks, including VAD, MFCC calculation from audio, and DTW-based distance computation between MFCC sets.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/MechaUma/SimpleVox.git"
+    },
+    "authors": 
+    [
+        {
+            "name": "MechaUma",
+            "url": "https://github.com/MechaUma"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platform": "*"
+}
